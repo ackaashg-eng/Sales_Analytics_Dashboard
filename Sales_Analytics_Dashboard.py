@@ -178,7 +178,6 @@ def main():
     print("=" * 45)
     print("     SALES ANALYTICS DASHBOARD")
     print("          Powered by NumPy")
-    print("=" * 45)
 
     dataset = create_dataset()
 
